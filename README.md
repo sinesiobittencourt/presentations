@@ -11,5 +11,10 @@ Topics:
 * Ionic v2
 * Ionic v3 ( New Version )
 
+##WORKSHOP
+
+Getting Started with Ionic 2 - Creating a Mobile Application Click to see more information
+Speaker: Sinésio Bittencourt - Linux System Administrator, ResellerClub
+Event: https://eventos.imasters.com.br/android-devconference
  
 
