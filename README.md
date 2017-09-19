@@ -1,21 +1,15 @@
-# Index of my presentations
+# Index Of My Presentations - Sinesio Bittencourt
 
-## Offline first
+## iMasters Android DevConference 2017
 
-[Go to the presentation](http://delapuente.github.io/presentations/offline-first/index.html)
+[Go to the presentation](https://www.slideshare.net/SinesioBittencourt/sinesio-bittencourt-ionic-framework-aplicaes-mveis-hbridas-79794188)
 
-Advices for effective caching and fetch strategies in Service Workers.
+Ionic framework { Hybrid mobile applications }
 
-## Idiomatic Python
+Topics:
+* Ionic v1
+* Ionic v2
+* Ionic v3 ( New Version )
 
-[Go to the presentation](http://delapuente.github.io/presentations/idiomatic-python/index.html)
-
-The presentation provides common idioms you can find in Python related with the following topics:
-
- * Syntax
- * Loops
- * Dictionaries
- * List & Tuples
- * Strings
- * Contexts
+ 
 
