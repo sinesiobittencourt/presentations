@@ -17,7 +17,7 @@ Topics:
 
 Getting Started with Ionic 2 - Creating a Mobile Application Click to see more information
 
-Speaker: Sinésio Bittencourt - Linux System Administrator, ResellerClub
+Speaker:<a href="https://sinesio.com.br" style="text-decoration:none;"> Sinésio Bittencourt</a> - Linux System Administrator, ResellerClub
 
 Event: https://eventos.imasters.com.br/android-devconference
  
