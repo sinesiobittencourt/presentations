@@ -9,7 +9,7 @@ Ionic framework { Hybrid mobile applications }
 Topics:
 * Ionic v1
 * Ionic v2
-* Ionic v3 ( New Version )
+* Ionic v3 ( New Version ) 3
 
  
 
