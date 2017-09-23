@@ -118,12 +118,12 @@ custom: [
     // the menu button.
     delayInit: false
     },
-    multiplex: {
-        // Example values. To generate your own, see the socket.io server instructions.
-		secret: '13652805320794272084', // Obtained from the socket.io server. Gives this (the master) control of the presentation
-		id: '1ea875674b17ca76', // Obtained from socket.io server
-		url: 'https://reveal-js-multiplex-ccjbegmaii.now.sh' // Location of socket.io server
-        },
+    // multiplex: {
+    //     // Example values. To generate your own, see the socket.io server instructions.
+	// 	secret: '13652805320794272084', // Obtained from the socket.io server. Gives this (the master) control of the presentation
+	// 	id: '1ea875674b17ca76', // Obtained from socket.io server
+	// 	url: 'https://reveal-js-multiplex-ccjbegmaii.now.sh' // Location of socket.io server
+    //     },
 
 
 // More info https://github.com/sinesiobittencourt/presentations#dependencies
@@ -135,11 +135,11 @@ dependencies: [
     { src: '../plugin/zoom-js/zoom.js', async: true },
     { src: '../plugin/notes/notes.js', async: true },
 
-    { src: 'http://cdn.socket.io/socket.io-1.3.5.js', async: true },
-    { src: '../plugin/multiplex/master.js', async: true },
+    // { src: 'http://cdn.socket.io/socket.io-1.3.5.js', async: true },
+    // { src: '../plugin/multiplex/master.js', async: true },
 
-    // and if you want speaker notes
-    { src: '../plugin/notes-server/client.js', async: true },
+    // // and if you want speaker notes
+    // { src: '../plugin/notes-server/client.js', async: true },
     
     { src: '../bower_components/reveal.js-menu/menu.js' },
     // { src: '../node_modules/reveal.js-menu/menu.js' },
