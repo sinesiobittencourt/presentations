@@ -49,7 +49,7 @@ In this Webinar, you will be taught how to start an application in Ionic v3 and 
 Neste Webinar, será ensinado como iniciar um aplicativo em Ionic v3 e como extrair mensagens do WordPress usando a WP-API. Também analisaremos como lidar com tipos de postagem personalizado. Depois de saber como extrair posts, é possível facilmente fazer o mesmo para usuários, mídia, produtos, eventos e muito mais.
 
 Click to see more information
-Event: https://eventos.imasters.com.br/android-devconference
+Event: https://imasters.com.br/cursos/webinars/integrando-wordpress-com-ionic-3/
 
 Speaker:<a href="https://sinesio.com.br" style="text-decoration:none;" target="blank"> Sinésio Bittencourt</a> - Linux System Administrator, Endurance International Group
 
