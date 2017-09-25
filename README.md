@@ -17,7 +17,25 @@ Topics:
 
 Getting Started with Ionic 2 - Creating a Mobile Application Click to see more information
 
-Speaker:<a href="https://sinesio.com.br" style="text-decoration:none;" target="blank"> Sinésio Bittencourt</a> - Linux System Administrator, ResellerClub
+Speaker:<a href="https://sinesio.com.br" style="text-decoration:none;" target="blank"> Sinésio Bittencourt</a> - Linux System Administrator, ResellerClub ( Endurance International Group )
+
+Event: https://eventos.imasters.com.br/android-devconference
+
+
+## Webinar iMasters 2017
+
+[Go to the presentation](https://www.slideshare.net/SinesioBittencourt/)
+
+Ionic framework { Hybrid mobile applications }
+
+Topics:
+* Ionic v3 ( New Version )
+
+### WEBINAR
+
+Neste Webinar, será ensinado como iniciar um aplicativo em Ionic v3 e como extrair mensagens do WordPress usando a WP-API. Também analisaremos como lidar com tipos de postagem personalizado. Depois de saber como extrair posts, é possível facilmente fazer o mesmo para usuários, mídia, produtos, eventos e muito mais.
+
+Speaker:<a href="https://sinesio.com.br" style="text-decoration:none;" target="blank"> Sinésio Bittencourt</a> - Linux System Administrator, Endurance International Group
 
 Event: https://eventos.imasters.com.br/android-devconference
  
