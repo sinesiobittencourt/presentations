@@ -26,7 +26,7 @@ Começando com Ionic 2 - Criando uma Aplicação Móvel
 Click to see more information:
 Event: https://eventos.imasters.com.br/android-devconference
 
-Speaker:<a href="https://sinesio.com.br" style="text-decoration:none;" target="blank"> Sinésio Bittencourt</a> - Linux System Administrator, ResellerClub ( Endurance International Group )
+Speaker:<a href="https://sinesio.com.br" style="text-decoration:none;" target="blank"> Sinésio Bittencourt</a> - Linux Systems Administrator, ResellerClub ( Endurance International Group )
 
 
 ## Webinar iMasters 2017
@@ -51,5 +51,5 @@ Neste Webinar, será ensinado como iniciar um aplicativo em Ionic v3 e como extr
 Click to see more information
 Event: https://imasters.com.br/cursos/webinars/integrando-wordpress-com-ionic-3/
 
-Speaker:<a href="https://sinesio.com.br" style="text-decoration:none;" target="blank"> Sinésio Bittencourt</a> - Linux System Administrator, Endurance International Group
+Speaker:<a href="https://sinesio.com.br" style="text-decoration:none;" target="blank"> Sinésio Bittencourt</a> - Linux Systems Administrator, Endurance International Group
 
